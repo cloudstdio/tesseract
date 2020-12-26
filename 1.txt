@@ -1,0 +1,3 @@
+PyMuPDF,pillow,pytesseract import fitz
+from PIL import Image
+import pytesseract
